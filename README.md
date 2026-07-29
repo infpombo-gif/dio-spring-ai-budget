@@ -18,8 +18,4 @@ Seguindo a proposta do desafio de evoluir a solução base, implementei as segui
 * **Banco de Dados H2 (Em memória)**
 * **Maven**
 
-## 🚀 Como executar a aplicação
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/dio-spring-ai-budget.git](https://github.com/SEU_USUARIO/dio-spring-ai-budget.git)
